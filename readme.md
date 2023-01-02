@@ -1,6 +1,6 @@
 ## Portfolio
-
-
+## 
+This is my portfolio for challenge 2.
 ## Screenshots
 
 <img width="1440" alt="Screen Shot 2023-01-02 at 2 29 00 PM" src="https://user-images.githubusercontent.com/107318946/210276983-d656b63c-40ed-4feb-8efe-22cc103e4dee.png">
